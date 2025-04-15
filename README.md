@@ -77,11 +77,8 @@ Inicia los servicios desde `.vscode/launch.json`.
 ## ✍️ Autor
 
 - **Tu Nombre**
-- Universidad / Curso
+- uniremington / Lenguaje de programacion avanzado II
 - Abril 2025
 
-## 🖼️ Diagrama
-
-![Arquitectura](AQUI_VA_TU_IMAGEN_DIAGRAMA.png)
 
 ¡Gracias por revisar este proyecto!
